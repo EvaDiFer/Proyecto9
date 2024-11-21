@@ -1,0 +1,2 @@
+Proyecto 9: Web Scraping con Puppeteer
+Este proyecto consiste en un web scraper desarrollado con Puppeteer para extraer información de una página con paginación. El scraper recoge el nombre, precio e imagen de todos los productos de cada página, eliminando los modales que interfieren durante el proceso. Navega automáticamente entre las páginas hasta alcanzar el final, recopilando todos los datos. Al finalizar, genera un archivo products.json que contiene toda la información extraída.
